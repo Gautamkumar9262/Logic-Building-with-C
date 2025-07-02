@@ -1,0 +1,9 @@
+main()
+{
+    if(2>1){
+    printf("hello");
+    printf("world");
+    } 
+    else
+    printf("bye");
+}
